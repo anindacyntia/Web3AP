@@ -1,0 +1,13 @@
+@import '~antd/dist/antd.css';
+.site-card-wrapper {
+  background:#fff;
+  padding: 30px;
+}
+.inside{
+    background: #dddddd ;
+}
+
+.ant-card-head{
+  border-bottom: 1px solid #eaaaaa !important;
+  color: rgb(217, 111, 96);
+}
