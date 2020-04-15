@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Web3AP-anindacyntia/static/css/main.42639e65.chunk.css",
+    "main.js": "/Web3AP-anindacyntia/static/js/main.117d3e54.chunk.js",
+    "main.js.map": "/Web3AP-anindacyntia/static/js/main.117d3e54.chunk.js.map",
+    "runtime-main.js": "/Web3AP-anindacyntia/static/js/runtime-main.9cb82d2d.js",
+    "runtime-main.js.map": "/Web3AP-anindacyntia/static/js/runtime-main.9cb82d2d.js.map",
+    "static/js/2.30169821.chunk.js": "/Web3AP-anindacyntia/static/js/2.30169821.chunk.js",
+    "static/js/2.30169821.chunk.js.map": "/Web3AP-anindacyntia/static/js/2.30169821.chunk.js.map",
+    "index.html": "/Web3AP-anindacyntia/index.html",
+    "precache-manifest.2278e9974116c37db4653123284abd86.js": "/Web3AP-anindacyntia/precache-manifest.2278e9974116c37db4653123284abd86.js",
+    "service-worker.js": "/Web3AP-anindacyntia/service-worker.js",
+    "static/css/main.42639e65.chunk.css.map": "/Web3AP-anindacyntia/static/css/main.42639e65.chunk.css.map",
+    "static/js/2.30169821.chunk.js.LICENSE.txt": "/Web3AP-anindacyntia/static/js/2.30169821.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Web3AP-anindacyntia/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cb82d2d.js",
+    "static/js/2.30169821.chunk.js",
+    "static/css/main.42639e65.chunk.css",
+    "static/js/main.117d3e54.chunk.js"
+  ]
+}
